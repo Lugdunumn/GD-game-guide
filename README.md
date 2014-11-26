@@ -1,4 +1,4 @@
 GD-game-guide
 =============
 
-游戏说明
+[官方游戏指南]http://solael.github.io/GD-game-guide
